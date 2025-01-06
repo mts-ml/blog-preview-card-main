@@ -17,7 +17,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- [Live Site URL](https://mts-ml.github.io/development/blog-preview-card-main/index.html)
+- [Live Site URL](https://mts-ml.github.io/blog-preview-card-main/)
 
 
 ## My process
